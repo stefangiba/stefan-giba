@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: "profile.jpg",
   paragraphOne:
-    "Hello everyone! My name is Stefan, I am currently a student in Bucharest, at the Faculty of Automatic Control and Computer Science. I am looking forward to developing a carreer in Software Engineering and contribute to the improvement of the world we live in.",
+    "Hello everyone! My name is Stefan, I am currently a student in Bucharest, at the Faculty of Automatic Control and Computer Science. I am looking forward to developing a career in Software Engineering and contribute to the improvement of the world we live in.",
   paragraphTwo:
-    "Coding is my passion and I especially enjoy building web and mobile applications. Also, I am very fond of Machine Learning and Artificial Intelligence and I am always looking for a way to implement them in myproducts.I hope to continuously improve as a developer and for that I am willing to put in the hard work.",
+    "Coding is my passion and I especially enjoy building web and mobile applications. Also, I am very fond of Machine Learning and Artificial Intelligence and I am always looking for a way to implement them in my products.I hope to continuously improve as a developer and for that I am willing to put in the hard work.",
   paragraphThree:
     "The programming languages I use are Javascript and Python, but I have also used Java and C++. My favourite technologies are ReactJS, NodeJS, Django and Django REST FRAMEWORK.",
   resume: "https://www.resumemaker.online/es.php", // if no resume, the button will not show up
